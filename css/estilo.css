@@ -1,0 +1,142 @@
+*{margin:0px;}
+.caja1
+{
+    background-color: rgb(199, 234, 232);
+    width: 150px; height: 150px;
+    position: fixed;
+    bottom: 350px;
+    left: 700px;
+    border-radius: 50%;
+}
+.caja1-1
+{
+    background-color: black;
+    width: 30px; height: 30px;
+    position: fixed;
+    bottom: 430px;
+    left: 727px;
+    border-radius: 50%;
+}
+.caja1-2
+{
+    background-color:black;
+    width: 30px; height: 30px;
+    position: fixed;
+    bottom: 430px;
+    left: 777px;
+    border-radius: 50%;
+}
+.caja1-3
+{
+    width: 0;
+    height: 0;
+    border-left: 1px solid transparent;
+    border-right: 60px solid transparent;
+    border-bottom: 22px solid orange;
+    position: fixed;
+    bottom: 400px;
+    left: 755px;
+}
+.caja1-4
+{
+    background-color:red;
+    width: 60px; height: 12px;
+    position:absolute;
+    bottom: 25px;
+    left: 42px;
+    border-radius: 50%;
+}
+.caja2
+{
+    background-color: rgb(149, 200, 229);
+    width: 180px; height: 180px;
+    position: absolute;
+    bottom: 172px;
+    left: 685px;
+    border-radius: 50%;
+}
+.caja2-1
+{
+    background-color:black;
+    width: 30px; height: 30px;
+    position: fixed;
+    bottom: 220px;
+    left: 760px;
+    border-radius: 50%;
+}
+.caja2-2
+{
+    background-color:black;
+    width: 30px; height: 30px;
+    position: fixed;
+    bottom: 260px;
+    left: 760px;
+    border-radius: 50%;
+}
+.caja2-3
+{
+    background-color:black;
+    width: 30px; height: 30px;
+    position: fixed;
+    bottom: 300px;
+    left: 760px;
+    border-radius: 50%;
+}
+.caja3
+{
+    background-color: rgba(128, 47, 0, 0.712);
+    width: 20px; height: 120px;
+    position: fixed; /*padre*/
+    bottom:293px;
+    left: 660px;
+    transform: rotate(-45deg);
+}
+.caja4
+{
+    background-color: rgba(128, 47, 0, 0.712);
+    width: 20px; height: 120px;
+    position: fixed; /*padre*/
+    bottom: 293px;
+    left: 871px;
+    transform: rotate(45deg);
+}
+.caja5
+{
+    background-color: rgb(136, 147, 208);
+    width: 220px; height: 190px;
+    position: fixed;
+    bottom: -9px;
+    left: 670px;
+    text-align: center;
+    vertical-align: middle;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%
+}
+.caja6
+{
+    background-color: black;
+    width: 230px; height: 50px;
+    position: fixed;
+    bottom: 490px;
+    left: 660px;
+    border-radius: 50%
+}
+.caja7
+{
+    background-color: black;
+    width:80px; height: 80px;
+    position: fixed;
+    bottom: 500px;
+    left: 735px;
+    border-radius: 10%;
+}
+.caja8
+{
+    background-color: red;
+    width:80px; height: 18px;
+    position: fixed;
+    bottom: 538px;
+    left: 735px;
+}
